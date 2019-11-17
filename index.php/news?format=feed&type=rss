@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hadleigh Community News</title>
+		<description>Information about Layham, a village in Suffolk, England</description>
+		<link>http://www.layham.org/index.php/news</link>
+		<lastBuildDate>Sat, 09 Nov 2019 12:38:38 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>Hadleigh Community News</title>
+			<link>http://www.layham.org/index.php/news/53-hadleigh-community-news</link>
+			<guid>http://www.layham.org/index.php/news/53-hadleigh-community-news</guid>
+			<description><![CDATA[<p><a href="http://www.hadleighcommunitynews.co.uk"><img src="http://www.layham.org/images/logos/hadleigh-community-news-small.jpg" border="0" alt="Hadleigh Community News" style="float:right;margin-left:10px;" /></a>Hadleigh Community News is a lively and informative free publication distributed to all homes in the Parish. It advertises and records most things that happen in and around Hadleigh. There are a couple of pages dedicated to Layham (Letter from Layham). If you have any service to offer, then an advertisement in the HCN reaches over 7,000 local homes. Each month this publication can be found at <a href="http://www.hadleighcommunitynews.co.uk">www.hadleighcommunitynews.co.uk</a>, where you can find an <a href="http://www.hadleighcommunitynews.co.uk/layham.aspx">edited version of Letter from Layham</a>.</p>]]></description>
+			<author>dan_moat@btinternet.com (Dan Moat)</author>
+			<category>Local News</category>
+			<pubDate>Fri, 24 Sep 2010 12:54:40 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

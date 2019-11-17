@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Home</title>
+		<description>Information about Layham, a village in Suffolk, England</description>
+		<link>http://www.layham.org/index.php/home</link>
+		<lastBuildDate>Sat, 09 Nov 2019 12:38:32 +0000</lastBuildDate>
+		<generator>Joomla! 1.5 - Open Source Content Management</generator>
+		<language>en-gb</language>
+		<item>
+			<title>Welcome to Layham</title>
+			<link>http://www.layham.org/index.php/home/51-welcome-to-layham</link>
+			<guid>http://www.layham.org/index.php/home/51-welcome-to-layham</guid>
+			<description><![CDATA[<p><a href="http://www.layham.org/images/views/brett-river-near-the-mill.jpg"><img src="http://www.layham.org/images/views/brett-river-near-the-mill-small.jpg" border="0" alt="The River Brett near the mill" style="float: right; border: 0; margin-left: 10px;" /></a></p>
+<p>Layham is a mainly residential parish of around 600 people living in 240 homes. The parish is split in two by the River Brett – the only direct connection being by footbridge over the river at Layham Mill.</p>
+<p>East of the river is Upper Layham in which two thirds of the people live. West of the river is the much larger area of Lower Layham where the remaining third of the people live.</p>
+<p>Most of the land is farmed and the only 'industry' is the gravel extraction on the western edge.</p>
+<p>The community is served by an Anglican church (St Andrew’s), a village hall, a playing field, and a public house (the Queen’s Head in Lower Layham).</p>
+<p><strong><span>Recently added material</span></strong></p>
+<ul>
+<li><a href="http://www.layham.org/images/historical/layham-local-history-report-2016.pdf">The Layham Local History Recorder's report for 2016</a></li>
+</ul>
+<p><span><br /></span></p>]]></description>
+			<author>dan_moat@btinternet.com (Dan Moat)</author>
+			<category>frontpage</category>
+			<pubDate>Mon, 14 Dec 2009 21:55:17 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
